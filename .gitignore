@@ -1,0 +1,6 @@
+*
+!.gitignore
+!sfx.py
+!page.html
+!catalog.jsonl
+!README.md
